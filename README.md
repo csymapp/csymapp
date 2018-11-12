@@ -5,7 +5,6 @@ A boiler plate for developing **Node.js** web applications implementing user acc
 
 
 ## Project Signature
- \# |  \# 
  ---|----------------
 Project | **Csyber Systems Mother Application api (csyma-api)**
 Developer | Brian Onang'o
