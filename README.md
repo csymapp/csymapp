@@ -35,6 +35,9 @@ mention given for the [individual components](#parts) that together make up CSYM
 - API Examples: Facebook, Foursquare, Last.fm, Tumblr, Twitter, Stripe, LinkedIn and more.
 - Group hierarchy
 
+## Justification
+*"...how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings" Matthew 23:37* When we take care of the mother (application), the child applications will be easier to take care of, for the mother will take care of them.
+
 ## Usage
 You will require to put together the different [parts](#parts) to get the csystem up and running.
 
