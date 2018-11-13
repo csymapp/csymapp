@@ -11,6 +11,7 @@ Start Date  | 2017
 
 ## Table of Contents
 - [CSYMApp](#csymapp)
+- [Justification](#justification)
 - [Features](#features)
 - [Usage](#usage)
 - [Parts](#parts)
@@ -19,6 +20,9 @@ Start Date  | 2017
 ## CSYMApp
 CSYMApp is a boiler plater for developing Node.js web applications. It's particularly useful where user account management and access control is to be implemented. We have in CSYMApp implemented our version of [Role Based Access Control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control) which we call [Familyfe Role Based Access Control](https://github.com/csymapp/Familyfe_RBAC/). CSYMApp also implements a hierarchical relationship between groups of users (which we call families) as would exist in natural families or in an organization, making it easy to implement access control in applications which are to be used in one organization or across multiple organizations. For more information, please refer to the docu
 mention given for the [individual components](#parts) that together make up CSYMApp.
+
+## Justification
+*"...how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings" Matthew 23:37*. When we take care of the mother (application), the child applications will be easier to take care of, for the mother will take care of them.
 
 ## Features
 - Local Authentication using Email and Password
@@ -34,9 +38,6 @@ mention given for the [individual components](#parts) that together make up CSYM
 - CSRF protection
 - API Examples: Facebook, Foursquare, Last.fm, Tumblr, Twitter, Stripe, LinkedIn and more.
 - Group hierarchy
-
-## Justification
-*"...how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings" Matthew 23:37* When we take care of the mother (application), the child applications will be easier to take care of, for the mother will take care of them.
 
 ## Usage
 You will require to put together the different [parts](#parts) to get the csystem up and running.
