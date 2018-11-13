@@ -1,7 +1,6 @@
 # CSYMApp - CSyber Systems Mother Application
 A boiler plate for developing **Node.js** web applications implementing user account management and access control.
 
-
 ## Project Signature
 Project | **Csyber Systems Mother Application**
 ---|----------------
@@ -11,9 +10,13 @@ for  | CSECO - Circuits and Systems Engineering Company
 Start Date  | 2017 
 
 ## Table of Contents
- - [CSYMApp](#csymapp)
- - [Features](#features)
+- [CSYMApp](#csymapp)
+- [Features](#features)
+- [Usage](#usage)
+- [Parts](#parts)
 
+## CSYMApp
+CSYMApp is a boiler plater for developing Node.js web applications. It's particularly useful where user account management and access control is to be implemented. We have in CSYMApp implemented our version of [Role Based Access Control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control) which we call [familyfe Role Based Access Control](https://github.com/csymapp/Familyfe_RBAC/)
 
 ## Justification
 
@@ -33,7 +36,7 @@ Start Date  | 2017
 - API Examples: Facebook, Foursquare, Last.fm, Tumblr, Twitter, Stripe, LinkedIn and more.
 
 ## Usage
-You will require to put together the different parts to get the csystem up and running.
+You will require to put together the different [parts](#parts) to get the csystem up and running.
 
 ## Parts
 
