@@ -2,8 +2,6 @@
 A boiler plate for developing **Node.js** web applications implementing user account management and access control.
 
 
-
-
 ## Project Signature
 Project | **Csyber Systems Mother Application**
 ---|----------------
@@ -13,6 +11,8 @@ for  | CSECO - Circuits and Systems Engineering Company
 Start Date  | 2017 
 
 ## Table of Contents
+ - [Features](#features)
+
 
 ## Justification
 
@@ -32,6 +32,7 @@ Start Date  | 2017
 - API Examples: Facebook, Foursquare, Last.fm, Tumblr, Twitter, Stripe, LinkedIn and more.
 
 ## Usage
+You will require to put together the different parts to get the csystem up and running.
 
 ## Parts
 
