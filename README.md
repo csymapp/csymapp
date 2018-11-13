@@ -17,7 +17,7 @@ Start Date  | 2017
 - [Parts](#references)
 
 ## CSYMApp
-CSYMApp is a boiler plater for developing Node.js web applications. It's particularly useful where user account management and access control is to be implemented. We have in CSYMApp implemented our version of [Role Based Access Control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control) which we call [Familyfe Role Based Access Control](https://github.com/csymapp/Familyfe_RBAC/) .
+CSYMApp is a boiler plater for developing Node.js web applications. It's particularly useful where user account management and access control is to be implemented. We have in CSYMApp implemented our version of [Role Based Access Control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control) which we call [Familyfe Role Based Access Control](https://github.com/csymapp/Familyfe_RBAC/).
 
 
 
