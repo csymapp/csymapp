@@ -44,4 +44,4 @@ Start Date  | 2017
 ## Todo
 
 ## Done
-- first time setup
+[x] first time setup
