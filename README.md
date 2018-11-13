@@ -17,12 +17,8 @@ Start Date  | 2017
 - [Parts](#references)
 
 ## CSYMApp
-CSYMApp is a boiler plater for developing Node.js web applications. It's particularly useful where user account management and access control is to be implemented. We have in CSYMApp implemented our version of [Role Based Access Control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control) which we call [Familyfe Role Based Access Control](https://github.com/csymapp/Familyfe_RBAC/).
-
-
-
-## Justification
-
+CSYMApp is a boiler plater for developing Node.js web applications. It's particularly useful where user account management and access control is to be implemented. We have in CSYMApp implemented our version of [Role Based Access Control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control) which we call [Familyfe Role Based Access Control](https://github.com/csymapp/Familyfe_RBAC/). CSYMApp also implements a hierarchical relationship between groups of users (which we call families) as would exist in natural families or in an organization, making it easy to implement access control in applications which are to be used in one organization or across multiple organizations. For more information, please refer to the docu
+mention given for the [individual components](#parts) that together make up CSYMApp.
 
 ## Features
 - Local Authentication using Email and Password
@@ -37,12 +33,15 @@ CSYMApp is a boiler plater for developing Node.js web applications. It's particu
 - Delete Account
 - CSRF protection
 - API Examples: Facebook, Foursquare, Last.fm, Tumblr, Twitter, Stripe, LinkedIn and more.
+- Group hierarchy
 
 ## Usage
 You will require to put together the different [parts](#parts) to get the csystem up and running.
 
 ## Parts
-
+- [csymapp-api](https://github.com/csymapp/csymapp-api)
+- [csymapp-web](https://github.com/csymapp/csymapp-web)
+- [csymapp-mobile](https://github.com/csymapp/csymapp-mobile)
 
 ## References
 - [hackathon-starter](https://github.com/sahat/hackathon-starter)
