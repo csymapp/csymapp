@@ -39,6 +39,7 @@ mention given for the [individual components](#parts) that together make up CSYM
 You will require to put together the different [parts](#parts) to get the csystem up and running.
 
 ## Parts
+CSYMApp provides an api and a separate front-end for both web and mobile applications. These should be put together to get the system up and running.
 - [csymapp-api](https://github.com/csymapp/csymapp-api)
 - [csymapp-web](https://github.com/csymapp/csymapp-web)
 - [csymapp-mobile](https://github.com/csymapp/csymapp-mobile)
